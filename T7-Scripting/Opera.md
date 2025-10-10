@@ -8,8 +8,6 @@ keywords: [ASIR, ASO]
 titlepage: true,
 ---
 
-
-
 *Warnings*
 
 Para la realización de esta actividad voy a tener los siguientes supuestos:
@@ -23,7 +21,7 @@ Para la realización de esta actividad voy a tener los siguientes supuestos:
 La Opera de Jidoor
 ==============================
 
-![UODM](../img/opera.png.jpg)
+![UODM](./img/opera.jpg)
 
 *Bienvenidos a Jidoor para una NOCHE MÁGICA*
 
@@ -242,10 +240,9 @@ Si el usuario es partituras deberá borrar todas las partituras del acto indicad
 
 Crea `finale-locke.sh` para que cree los usuarios que no existan antes de que se ejecute `act03-locke.sh`
 
-
 # Tarea 6
 
-Corrige los scripts y envíalos por moodle. Mucho ánimo.
+Corrige los scripts y envíalos por Esemtia junto con una guia de cada uno de los actos como pdf. Mucho ánimo.
 
 
 
