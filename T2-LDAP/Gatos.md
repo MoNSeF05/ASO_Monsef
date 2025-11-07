@@ -50,7 +50,7 @@ Práctica ambientada en el siguiente relato: [Los Gatos de Uthal](https://mrpoec
 
 ## Ejercicio I: Ulthal
 
-Se dice que en Ulthal, una villa más allá del rio Skai no se pueden matar gatos. Esta historia suele ser narrada generalmente por el burgomaestre, Kranon el Anciano y aunque ya ha quedado como una historia que se le cuenta a los niños antes de irse a la cama, se puede ver un ápice de terror en los ojos de dos ciudadanos Shang, el herrero y Thul, un cortador de piedras.
+Se dice que en Ulthal, una villa más allá del rio Skai no se pueden matar gatos. Esta historia suele ser narrada generalmente por el burgomaestre, Kranon el Anciano y aunque ya ha quedado como una historia que se le cuenta a los niños antes de irse a la cama, se puede ver un ápice de terror ©en los ojos de dos ciudadanos Shang, el herrero y Thul, un cortador de piedras.
 
 Crea un dominio `ulthal.skai.world` y dos unidades organizativas `ciudadanos` y `gatos`.
 
