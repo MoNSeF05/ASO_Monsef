@@ -44,7 +44,7 @@ Lo usaremos al final para agilizar la gestión de elementos.
 
 # Noche en Ulthal
 
-![Gatos](/img/gatos.png)
+![Gatos](img/gatos.png)
 
 Práctica ambientada en el siguiente relato: [Los Gatos de Uthal](https://mrpoecrafthyde.wordpress.com/wp-content/uploads/2016/02/h-p-lovecraft-los-gatos-de-ulthar.pdf)
 
