@@ -242,7 +242,7 @@ Crea `finale-locke.sh` para que cree los usuarios que no existan antes de que se
 
 # Tarea 6
 
-Corrige los scripts y envíalos por Esemtia junto con una guia de cada uno de los actos como pdf. Mucho ánimo.
+Corrige los scripts y envíalos por Esemtia junto con una guía de cada uno de los actos como pdf. Mucho ánimo.
 
 
 
